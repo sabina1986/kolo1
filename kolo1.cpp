@@ -1,4 +1,6 @@
-// Imie, Nazwisko, grupa(specjalnosc), nr. indeksu
+// Sabina Kowalczyk, Zintergrowane systemy zarzadzania i analizy danych, 101496
+
+
 
 #include <iostream>
 using namespace std;
